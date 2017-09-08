@@ -10,7 +10,8 @@
     <form id="form1" runat="server">
     <div>
     Changed in local!!!!
-        From master, Iam going to push from s3 branch to local branch in visual studio!!!! Iam changing in local and push to s3 branch.........
+        From master, Iam going to push from s3 branch to local branch in visual studio!!!! Iam changing in local and push to s3 branch.....
+       2nd check pull....
     </div>
     </form>
 </body>
