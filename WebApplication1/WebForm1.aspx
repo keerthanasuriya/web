@@ -12,6 +12,8 @@
     Changed in local!!!!
         From master, Iam going to push from s3 branch to local branch in visual studio!!!! Iam changing in local and push to s3 branch.....
        2nd check pull....pull works fine......
+
+        trying to push with no changes from remote ..trying for conflict!!!!!!
     </div>
     </form>
 </body>
