@@ -14,6 +14,8 @@
        2nd check pull....pull works fine......
 
         trying to push with no changes from remote ..trying for conflict!!!!!!
+        
+        in remote changes are there
     </div>
     </form>
 </body>
