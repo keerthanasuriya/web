@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
     webform2.aspx
+        
+        changed in webform2.aspx
     </div>
     </form>
 </body>
